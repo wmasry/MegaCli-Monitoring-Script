@@ -12,6 +12,6 @@ MEGACLI script to identity devices with media error and report the associated lo
 
 # Limitations
 
-•Further code review is required as the script is currently a functional-draft only 'I stopped further development as I am currently working on other platforms'
+• Further code review is required as the script is currently a functional-draft only 'I stopped further development as I am currently working on other platforms'
 
 • The script provides 1-to-1 relation "currently limited to identify logical drives associated with one physical drives"
